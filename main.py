@@ -91,3 +91,4 @@ print("You got {} / {} questions correct!".format(correct_answers, question_coun
 print("{}% of your answers were correct!".format(round((correct_answers / question_count) * 100)))
 
 display_question_history()
+input()
